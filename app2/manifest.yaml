@@ -58,7 +58,7 @@ metadata:
 spec:
   ingressClassName: alb
   rules:
-  - host: "app2.daws84s.site"
+  - host: "app2.devopslearning.store"
     http:
       paths:
       - pathType: Prefix
